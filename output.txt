@@ -1,0 +1,712 @@
+
+
+--------------------------------------------------
+Final Solution [101]
+[
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999999322498, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999998769074, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999995076285, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999994398783, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999378759, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999988921644, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998769071, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999987560013, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999987560013, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998522885, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998424411, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998376897, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999983653263, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999980305136, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999980305136, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997784328, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997565617, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999974443257, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997322096, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999969226776, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999968351476, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999966121322, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999996560579, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999965166033, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.99999999633002, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999962530284, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999961383703, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999960610273, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998769071, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999995076285, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999965364985, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999763662, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999997322098, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999982000984, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998005895, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999974763902, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999996738038, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999594224, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999557473, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.8729989145435035, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998159023, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999063257, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999988230917, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999997322098, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997322096, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999970457703, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999433773, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999985058174, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999995076285, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999937876, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998659006, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999980538923, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999996815706, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999998410476, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999002948, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.99999999814804, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9965112006619896, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999997070645, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999998757063, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999985058174, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999995076285, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997420434, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997242719, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999997291956, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999723041, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999995076285, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999995983144, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999063257, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999991014326, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.970394681383733, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.999999999048357, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999972304097, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.9999999996516604, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+, 
+  {
+    vals(2):, [2.995336872335417, 3.7228687454845653]
+    Fitness (bweighted-false):,[-3.722868745484567, -3.722868745484567]
+    Violations:, (No Violation)
+    Rank:,-3.722868745484567/[0:3]
+  }
+, 
+  {
+    vals(2):, [3.0, 4.0]
+    Fitness (bweighted-false):,[-4.000000000000002, -4.000000000000002]
+    Violations:, (No Violation)
+    Rank:,-4.000000000000002/[0:3]
+  }
+]
